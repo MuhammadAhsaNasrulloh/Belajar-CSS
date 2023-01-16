@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: red;
+    background :black;
+    text-align: center;
+    padding: 10px;
+}
+h2 {
+    color: yellow;
+    background: blue;
+    padding: 10px;
+    text-align: center;
+}
+.intro {
+    color: green;
+    background: black;
+    padding: 10px
+}
+.container{
+    color: blue;
+    background: pink;
+    padding: 10px;
+}
